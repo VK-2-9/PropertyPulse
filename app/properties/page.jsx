@@ -1,4 +1,4 @@
-import PropertyCard from "../components/PropertyCard";
+import PropertyCard from "@/app/components/PropertyCard";
 import connectDB from "@/config/database";
 import Property from "@/modals/Property";
 

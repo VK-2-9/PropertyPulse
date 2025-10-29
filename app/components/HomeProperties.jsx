@@ -1,6 +1,6 @@
 import connectDB from "@/config/database";
 import Property from "@/modals/Property";
-import PropertyCard from "@/PropertyCard";
+import PropertyCard from "./PropertyCard.jsx";
 import Link from "next/link";
 
 const HomeProperties = async () => {
